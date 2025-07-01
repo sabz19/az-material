@@ -1,0 +1,5 @@
+/Users/sabarishn/dev/azure_related/azure_event_hubs/obj/Debug/net9.0/azure_event_hubs.csproj.AssemblyReference.cache
+/Users/sabarishn/dev/azure_related/azure_event_hubs/obj/Debug/net9.0/azure_event_hubs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabarishn/dev/azure_related/azure_event_hubs/obj/Debug/net9.0/azure_event_hubs.AssemblyInfoInputs.cache
+/Users/sabarishn/dev/azure_related/azure_event_hubs/obj/Debug/net9.0/azure_event_hubs.AssemblyInfo.cs
+/Users/sabarishn/dev/azure_related/azure_event_hubs/obj/Debug/net9.0/azure_event_hubs.csproj.CoreCompileInputs.cache
